@@ -1,4 +1,4 @@
-# 🌍Procedural World Generation System in Unity – The Lost Haven
+# 🌍Procedural Terrain Generation System in Unity – The Lost Haven
 
 A **comprehensive and performant system** for generating vast, dynamic, and endless 3D worlds in **Unity**.  
 Built with a **modular, data-driven architecture**, the system features **procedural terrain**, **object spawning**, **dynamic NavMesh baking**, and **resource-aware UI**, all optimized with **multi-threading** and **Level of Detail (LOD)** systems.
